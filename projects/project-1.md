@@ -15,8 +15,6 @@ summary: My team developed a game Vesuvius in ICS 111.
 <div class="ui small rounded images">
   <img class="ui image" src="../images/micromouse-robot.png">
   <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
 Vesuvius is a game that requires the player to run away from lava, collect potions and move up in levels. 

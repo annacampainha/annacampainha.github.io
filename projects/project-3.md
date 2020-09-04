@@ -9,6 +9,7 @@ date: 2019-04-01
 labels:
   - Personal
   - Health
+  - Instagram
 summary: A nutrition program I developed my sophomore year of college.
 ---
 

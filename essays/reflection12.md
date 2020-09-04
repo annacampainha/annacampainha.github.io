@@ -34,7 +34,7 @@ Who knew that I would be doing four workouts a day in college? Two on the comput
 
 ## Conclusion
 
-It&#39;s clear that JavaScript is new to me, but I am excited to learn more about it. Although I am a Senior and can&#39;t wait to graduate, something about this semester tells me JavaScript, and I will be best friends with excellent outcomes. However, I must remind myself that when competing than to stay competent:
+It&#39;s clear that JavaScript is new to me, but I am excited to learn more about it. Although I am a Senior and can&#39;t wait to graduate, something about this semester tells me JavaScript, and I will be best friends with excellent outcomes. However, I must remind myself that when competing that to stay competent:
 
 - Success is not linear
 

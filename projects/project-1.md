@@ -13,8 +13,7 @@ summary: My team developed a game Vesuvius in ICS 111.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/intro.png">
-  <img class="ui image" src="../images/blob.jpg">
+  <img class="ui image" src="../images/intro.jpg">
 </div>
 
 Vesuvius was my third project in my undergraduate career. The objective of the game is the main player, the Goddess, is trying to escape the lava where lava blobs slowly kill the player. The player can collect potions to redeem themself. 

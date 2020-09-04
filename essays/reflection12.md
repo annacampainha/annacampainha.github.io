@@ -20,7 +20,7 @@ labels:
 
 JavaScript has taught me many new things in just a week. It&#39;s taught me that I need to sit down and practice it like I own it. The process of learning this language requires a lot of loops to the beginning of explanations to fully comprehend. It&#39;s a new language; it&#39;s not easy to understand and master. Learning to code in a new language is always tricky and never easy. I remember my first &quot;Hello World&quot; program my freshman year… I wanted to cry. Fortunately, I don&#39;t feel the same way anymore. The privilege of already knowing other languages—Java, C, and C++ —quickened learning the basics. Although a year ago, I tried to learn this language, but I never hunkered down and finished the task. I look back and wish I did so I could be ahead of the game.
 
-#Spark of Creativity
+## Spark of Creativity
 
 As I was replacing the int, strings, booleans with &#39;let&#39; or &#39;const&#39; for every variable I declared, I realized this language is quite fun. In the past, people would refer to as easy as if you are talking to a baby; I don&#39;t see where they get that from. This is a unique language that is the key to Software Engineering, and everyone should take the time to learn it. Being in the science field, especially in undergraduate, Computer Scientist has been strictly learning hard, physical sciences, and math, but rarely introduced to letting their mind open to creative opportunities. JavaScript has more opportunities to bring out the creative minds in Computer Science; it&#39;s exciting. The art of learning what you don&#39;t know is an inspiring feeling.
 

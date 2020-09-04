@@ -1,25 +1,22 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/snake.jpg
+title: Maze Chase
+permalink: projects/snake
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-03-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - Maze
+summary: A maze game that a target is being chased by predators which was made in ICS 111.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Maze chase is a game I developed in ICS 111, Spring 2018. The project helped me learn how to design and implement images and the platform behind making games.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Maze Chase was implemented using Java and EZ Graphics. It took one week to finish and was one of my very first experiences coding a larger project.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+In this project I gained experience coding and dealing with graphics. Creating the maze taught me how to use text editors to create the boundaries. I learned how to implement images into my game. I used [EZ graphics](http://www2.hawaii.edu/~dylank/ics111/) to add in the graphics. 
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>

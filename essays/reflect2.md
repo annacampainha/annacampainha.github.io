@@ -15,6 +15,8 @@ labels:
 - Learning
 
 ---
+<img class="ui medium right floated rounded image" src="../images/desk.png">
+
 ## Still Figuring It Out
 
 Software Engineering is where I want to be in my future career. I have had a hard time picking my career path throughout college, and I am excited that Software Engineering is going to help me with this. I aspire to work in Cyber Security, IT, or app development, so I am still figuring my life out. I have always been into Math and Science, but I believe software engineering is going to bring out a different characteristic in me like creativity and social collaboration. 

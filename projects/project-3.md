@@ -1,61 +1,22 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/health.jpg
+title: Healthy Life
+permalink: projects/health
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-04-01
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Personal
+  - Health
+summary: A nutrition program I developed my sophomore year of college.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/nutrition.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Healthy Life is a program I started when I was a Sophomore in 2018. It helps people find a balance in life to be healthy and successful. After living in the dorms, a lot of people said they wish they had help. I created a community that finds ways to fit other activities into their life. The goal of this program is to fuel your body for success. Not only is its goal to eat well but to eat well to be active and have your brain fed good food for optimal performance in school and life. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+I have gained communication skills through this because clients need to be educated on the correct form of nutrition. I have learned that many people are unaware of how to live a healthy life which leads them to be unhappy. The cycle of feeling unhappy affects the performance of many people so resources are necessary to educate the world. 
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+To learn more information about my nutrition program you may contact me on my personal email.
 

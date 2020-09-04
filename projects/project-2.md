@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/snake.jpg
+image: images/chase.jpg
 title: Maze Chase
-permalink: projects/snake
+permalink: projects/chase
 # All dates must be YYYY-MM-DD format!
 date: 2018-03-15
 labels:
@@ -11,7 +11,7 @@ labels:
   - Maze
 summary: A maze game that a target is being chased by predators which was made in ICS 111.
 ---
-<img class="ui medium right floated rounded image" src="/images/micromouse-robot.png">
+<img class="ui medium right floated rounded image" src="/images/over.jpg">
 
 Maze Chase is a game I developed in ICS 111, Spring 2018. The project helped me learn how to design and implement images and the platform behind making games.
 

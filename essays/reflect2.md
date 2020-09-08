@@ -15,7 +15,7 @@ labels:
 - Learning
 
 ---
-<img class="ui medium right floated rounded image" src="../images/desk.png">
+<img class="ui medium right floated rounded image" src="../images/desk.jpg">
 
 ## Still Figuring It Out
 

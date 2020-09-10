@@ -13,7 +13,9 @@ labels:
 summary: A nutrition program I developed my sophomore year of college.
 ---
 
-Healthy Life is a program I started when I was a Sophomore in 2018. It helps people find a balance in life to be healthy and successful. After living in the dorms, a lot of people said they wish they had help. I created a community that finds ways to fit other activities into their life. The goal of this program is to fuel your body for success. Not only is its goal to eat well but to eat well to be active and have your brain fed good food for optimal performance in school and life. I follow these nutrition tips for a healthy lifestyle.
+Healthy Life is a program I started when I was a Sophomore in 2018. It helps people find a balance in life to be healthy and successful. After living in the dorms, a lot of people said they wish they had help. I created a community that finds ways to fit other activities into their life. 
+
+The goal of this program is to fuel your body for success. Not only is its goal to eat well but to eat well to be active and have your brain fed good food for optimal performance in school and life. I have found that many college students put their health last when juggling school. I provide coaching to help people gain knowledge about living a healthy life. I follow these nutrition tips for a healthy lifestyle.
 
 <img class="ui medium right floated rounded image" src="/images/nutrition.png"> 
 

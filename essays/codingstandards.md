@@ -31,5 +31,5 @@ I also am a strong believer in working smarter, not harder. Using minimal keystr
 ## Readability
 If you are a neat, clean freak, then following coding standards are for you. The coding standards hold you account for creating clean looking code. Instead of random indentations or misaligned lines of code, ESLint guides you to a better looking program. I always get frustrated when coding if I cant figure out the issue with the alignment of my code, but ESLint makes it easier when I use Javascript. Not only does it increase readability but it improves your collaboration experience with other people and your credibility. If an unorganized person creates something, most likely that means their brain is unorganized. With ESLint, it teaches you the benefits of having organizes code. Other collaborators will find it more attractive that their partners are organized and thorough with their work instead of lazy.
 
-##Conclusion
+## Conclusion
 Overall, coding standards are beneficial. Even though its time consuming to set up, in the long run its worth it. 

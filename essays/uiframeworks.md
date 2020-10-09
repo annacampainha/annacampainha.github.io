@@ -6,7 +6,7 @@ type: essay
 
 title: Grow Through What You Go Through With UI Frameworks
 
-date: 2020-09-24
+date: 2020-10-08
 
 labels:
 
@@ -20,7 +20,7 @@ labels:
 
 ---
 ## Quote of the Experience 
-I have many favorite quotes that motivate me to do better and for experiencing UI Frameworks it is:
+I have many favorite quotes that motivate me to do better. For experiencing UI Frameworks it is:
 Grow through what you go through.
 
 growth = vulnerability + uncomfort + self-improvment; 

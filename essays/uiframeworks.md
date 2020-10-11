@@ -38,13 +38,22 @@ In the beginning, I was present, going through the modules, doing the readings a
 The peak started at E36, where I chose to recreate Nike's homepage of their website. Phew, I was sweating because it was so complex, but it was my first time where I got to do something on my own. This task was so much fun to me; I kept researching, learning, implementing and it kept me climbing. With the help of  [Semantics UI](https://semantic-ui.com) and a bombarding amount of questions to the TA, I had recreated a beautiful site so similar to one of the biggest fitness companies in the world. Semantics allows us to make the "cool" projects. If we just used raw HTML and CSS, we would not be creating anything magical I was cheering for myself as I reached the peak of that "wow" feeling. 
 
 ## The Fall of the Hike
+
+<img class="ui small centered image" src="addition.jpeg">
+
 As excited as I felt during E36, I also fell face first, more than once. I probably fell more than I can count. I was so new to CSS, Semantics, all of it, that I struggled to understand the simple things. One thing Semantics UI could help out with is an explanation for adding text to an image.. that made me fall base 2 to the n times (thats a big number). For example, how do I add text to a picture? Why can't I just do "add a textbox" and call it good?! That just was not the case. Even though it was right in front of me, it led me on a marathon to find the right class of Semantics to use. I learned a lot from these tumbles because it pushed me to find the answer to it and ask questions. I have barely asked enough questions this semester, but this week I probably broke the class record. Sounds like a lot of growth to me. 
 
 ## The Home Stretch of the Hike 
+
+<iframe src="https://giphy.com/embed/miu6aK6SsU20U" width="480" height="374" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/swamp-people-gator-hunting-gatordone-miu6aK6SsU20U">via GIPHY</a></p>
+
 As I committed my last edit to GitHub and pushed it away, I was still-- **guess how I felt** --.. out of this world excitement. I had made it through E36, recreated NIKE, and learned so much within that time. The struggles were worth it because now I know that Dr. Johnson is right, what we are doing is "cooler" than anything. As I look at websites now, I can easily pick and identify the characteristics that are needed to make a website like that. Utilizing [Semantics UI](https://semantic-ui.com) while enduring this journey, is the most helpful part of this experience. Semantics is important to me as a Software Engineer because it shows the things that I can do. Computer Science is not just making algorithms or identifying the runtime of a Binary Search Tree, but its also sharing your creative side with other people which Semantics UI allows you to do. 
 
 
 ## Moral of my Quote of the Experience
-If you are learning Semantics UI or any UI Framework, go through the struggle of reading [Semantics UI](https://semantic-ui.com) 100 times and implementing a class along with it before giving up, because you are most likely going to feel great after it. Now, I can't guarantee you that you will feel as excited as I was because I was pretty-- cannot emphasize enough --excited with the Semantics UI experience.
+If you are learning Semantics UI or any UI Framework, go through the struggle of reading [Semantics UI](https://semantic-ui.com) 100 times and implementing a class along with it before giving up, because you are most likely going to feel great after it. Now, I can't guarantee you that you will feel as excited as I was because I was pretty-- cannot emphasize enough --excited with the Semantics UI experience. Maybe you will end up with something as beautiful as my site.
+
+<img class="ui medium centered image" src="partone.png">
+<img class="ui medium centered image" src="parttwo.png">
 
 

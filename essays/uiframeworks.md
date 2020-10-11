@@ -23,7 +23,7 @@ labels:
 I have many favorite quotes that motivate me to do better. For experiencing UI Frameworks it is:
 Grow through what you go through.
 
-growth = vulnerability + uncomfort + self-improvment; 
+growth = vulnerability + uncomfort + self-improvement; 
 
 ## The I to My Experience with UI Frameworks
 

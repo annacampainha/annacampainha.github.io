@@ -39,7 +39,7 @@ The peak started at E36, where I chose to recreate Nike's homepage of their webs
 
 ## The Fall of the Hike
 
-<img class="ui small centered image" src="addition.jpeg">
+<img class="ui small centered image" src="../images/addition.jpeg">
 
 As excited as I felt during E36, I also fell face first, more than once. I probably fell more than I can count. I was so new to CSS, Semantics, all of it, that I struggled to understand the simple things. One thing Semantics UI could help out with is an explanation for adding text to an image.. that made me fall base 2 to the n times (thats a big number). For example, how do I add text to a picture? Why can't I just do "add a textbox" and call it good?! That just was not the case. Even though it was right in front of me, it led me on a marathon to find the right class of Semantics to use. I learned a lot from these tumbles because it pushed me to find the answer to it and ask questions. I have barely asked enough questions this semester, but this week I probably broke the class record. Sounds like a lot of growth to me. 
 
@@ -53,7 +53,7 @@ As I committed my last edit to GitHub and pushed it away, I was still-- **guess 
 ## Moral of my Quote of the Experience
 If you are learning Semantics UI or any UI Framework, go through the struggle of reading [Semantics UI](https://semantic-ui.com) 100 times and implementing a class along with it before giving up, because you are most likely going to feel great after it. Now, I can't guarantee you that you will feel as excited as I was because I was pretty-- cannot emphasize enough --excited with the Semantics UI experience. Maybe you will end up with something as beautiful as my site.
 
-<img class="ui medium centered image" src="partone.png">
-<img class="ui medium centered image" src="parttwo.png">
+<img class="ui medium centered image" src="../images/partone.png">
+<img class="ui medium centered image" src="../images/parttwo.png">
 
 

@@ -1,13 +1,20 @@
 ---
-layout: essay
-type: essay
-title: Final Project Idea: Healthy, Happy U at Hawaii
-date: 2020-11-04
-labels:
-  - Software Engineering
-  - Meteor
----
 
+layout: essay
+
+type: essay
+
+title: Final Project Idea: Healthy, Happy U at Hawaii
+
+date: 2020-11-04
+
+labels:
+
+- Software Engineering
+
+- Meteor
+
+---
 ## Mental Health Help for STEM  majors
 ## Overview (including “The problem” and “The solution”)
 Workout generating, mental health tips, scheduling, working on being a better self. Overall self improvment
@@ -15,7 +22,7 @@ The problem: STEM majors are put under a lot of pressure to perform and do well 
 There’s no one speaking up about this in STEM, therefore, I think it’s an ignored topic.
 The solution: Create the app Healthy, Happy U at Hawai’i that is focused on providing a safe space for STEM majors. Users can create their own account and search among the app for resources. There will be an array of options to provide readings, workouts, healthy college recipes to fuel a healthy mind. Be there for STEM majors when they need it, especially thru covid. You really don’t know who needs someone during this time.
 
-## Mockup page ideas: 
+## Mockup page ideas
 - landing page
 - user home page
 - admin home page

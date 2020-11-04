@@ -43,4 +43,3 @@ User goes to landing page, logs in, browses resources, recipes, workouts, schedu
 Calendar, schedule managing
 workout generator 
 I think this app may already include beyond the basics implementations so I think this is a good starting point. If anyone wants to contribute, I would love it. Be the change you want to see in the world.
-

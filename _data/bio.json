@@ -29,18 +29,18 @@
   },
   "interests": [
     {
-      "name": "software engineering ",
+      "name": "Software Engineering",
       "keywords": [
  
       ]
     },
     {
-      "name": "cyber security",
+      "name": "Cyber Security",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Web Development",
       "keywords": [
       ]
     }
@@ -52,7 +52,9 @@
       "keywords": [
         "C",
         "C++",
-        "Java"
+        "Java",
+        "JavaScript",
+        "Semantics UI"
       ]
     },
     {
@@ -64,7 +66,8 @@
         "g++",
         "Microsoft Office",
         "VisualStudio Code",
-        "Eclipse IDE"
+        "Eclipse IDE",
+        "IntelliJ IDEA"
       ]
     }
   ],
@@ -80,6 +83,8 @@
         "ICS 111: Introduction to Computer Science I ",
         "ICS 211: Introduction to Computer Science II ",
         "ICS 212: Program Structure",
+        "ICS 314: Software Engineering",
+        "ICS 311: Algorithms",
         "MATH 241: Calculus I",
         "MATH 242: Calculus II",
         "MATH 307: Discrete Mathematics",

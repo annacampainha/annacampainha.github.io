@@ -57,7 +57,7 @@ Here is the code. Admin is for the Athletic Trainers and user is for the Athlete
 ```
 
 ## (Not So) Moral of my Quote of the Experience
-Do more things, read far into them (if you are already not an over-analytical computer science nerd) and find a connection to whatever is going on in your life. You'd be surprised with how many patterns really exist in this world. 
+Do more things, read far into them (if you are already not an over-analytical computer science nerd) and find a connection to whatever is going on in your life. You'd be surprised with how many patterns really exist in this world. Design Patterns are a necessity when devloping software.
 
 And scientists should bake more cookies. 
 

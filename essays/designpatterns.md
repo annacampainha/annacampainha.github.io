@@ -61,3 +61,5 @@ Do more things, read far into them (if you are already not an over-analytical co
 
 And scientists should bake more cookies. 
 
+<img class="ui large centered image" src="../images/cookies.JPG">
+

@@ -50,6 +50,11 @@ It was not aparent to me that these *patterns* had actual names, but it makes se
 ## My pattern 
 In my group project, my group and I are working on a database that has many users within a system. All of the patterns are so similar to patterns listed above. I notice that the “Singleton” design pattern is an ideal pattern my group follows because when a user subscribes, they receive the collection of data that they are signing up for. Each collection we have, it has a core so song class that manages access to it. For example, our users are Athletes and their Athletic Trainer. The Athletic Trainer can publish records of the rehab their athlete received at their last visit. The trainer has access to choosing what they want to see on that page whether it’s old or new data or specific to what they are searching for that is for that single athlete. Everything corresponds to a profile. 
 
+Here is the code. Admin is for the Athletic Trainers and user is for the Athletes:
+```
+ this.userPublicationName = `${this.name}.publication.user`;
+    this.adminPublicationName = `${this.name}.publication.admin`;
+```
 
 ## (Not So) Moral of my Quote of the Experience
 Do more things, read far into them (if you are already not an over-analytical computer science nerd) and find a connection to whatever is going on in your life. You'd be surprised with how many patterns really exist in this world. 

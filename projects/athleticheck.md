@@ -19,6 +19,14 @@ summary: My team developed an application named AthletiCheck in ICS 314 that is 
 ## Overview of AthletiCheck Application
 AthletiCheck is an application targeted for collegiate Athletic Trainers and Athletes. I worked on this project with Franz Adam, Robert Lemon and Andy Yu. There are currently limited resources for Athletic Trainers to record their work done with Athletes in the training room. A lot of the time they are writing down the work done then having to manually enter it into a computer. AthletiCheck allows AT's to have a list of their Athletes and can easily manage them while also communicating with them and their treatment needs.
 
+## Learn More About Our application 
+Please visit our project page here to learn more about our project:
+This link includes directions to running our program locally.
+[AthletiCheck](https://athleticheck.github.io/)
+
+The source code is in our GitHub repository located here:
+[AthletiCheck GitHub Repository](https://github.com/athleticheck/athleticheck)
+
 ## My Contribution to the Project 
 I contributed to the complete Front End development of this application. I created the theme to match throughout the entire application, I made sure everything the user did was easily used and attractive to their eye. 
 
@@ -35,10 +43,3 @@ I also helped with anything outside of the front end development if my team need
 This project was challenging but my group made it manageable. As a group, we all had a great work ethic so we finished everything on time. Since we are doing distance learning, our entire porject was based off communicating on Discord. This required a lot of patience and consistency. The project revealed how important it is to have deadlines and goals for each milestone or else things will not be finished. Without having the issues, we would have probably procrastinated. I also learned that Software Engineering is really frusrating and it takes time to develop something. Oour application is great but I do believe there is room for improvement.
 
 
-## Learn more
-Please visit our project page here to learn more about our project:
-This link includes directions to running our program locally.
-[AthletiCheck](https://athleticheck.github.io/)
-
-The source code is in our GitHub repository located here:
-[AthletiCheck GitHub Repository](https://github.com/athleticheck/athleticheck)

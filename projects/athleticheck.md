@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/largeLogo.png
+image: images/circular-logo.png
 title: AthletiCheck
 permalink: projects/athleticheck
 # All dates must be YYYY-MM-DD format!

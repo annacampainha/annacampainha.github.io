@@ -36,5 +36,5 @@ This project was challenging but my group made it manageable. As a group, we all
 
 
 ## Learn more
-Please visit our project page here to learn more about our amazing project. 
+Please visit our project page here to learn more about our project. 
 [AthletiCheck](https://athleticheck.github.io/)

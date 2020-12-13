@@ -5,7 +5,7 @@ image: images/athleticheck.jpg
 title: Vesuvius
 permalink: projects/vesuvius
 # All dates must be YYYY-MM-DD format!
-date: 2018-04-22
+date: 2020-12-13
 labels:
   - JavaScript
   - ESLint

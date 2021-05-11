@@ -14,7 +14,7 @@ labels:
   - Meteor
 summary: My team developed an application named GHG-Trackerr in ICS 414 that is for tracking green house gas emissions in hope to help users reduce their carbon footprint.
 ---
-<img class="ui large centered image" src="../images/landing-1.png">
+<img class="ui large centered image" src="../images/ghg/ghg_landing.png">
 
 ## Overview of GHG-Tracker Application
 GHG-Tracker is an application targeted for Hawai'i residents and people who want to reduce their carbon footprint. I worked on this project with Daphne Tapia, Sophia Cruz, Timothy Huo, Jackei Wong, Michael Gainey, Yiwen Chen, Chak Hon Lam, and Khyla Rabang. We created this app for Hawaiian Electric Industry (HEI) where they asked us to make a user friendly app to track carbon emissions. This targets users who want to set a goal and reduce their carbon footprint. As climate change is rising, we hope this app will reduce carbon emissions. 
@@ -28,18 +28,39 @@ The source code is in our GitHub repository located here:
 [GHG-Tracker GitHub Repository](https://github.com/hot-n-code/ghg-tracker)
 
 ## My Contribution to the Project 
-I contributed to the complete Front End development of this application. I created the theme to match throughout the entire application, I made sure everything the user did was easily used and attractive to their eye. 
+I contributed to the complete Front End development of this application with Michael Gainey and I worked on the backend development of the tables to hold the data. I also designed graphics for the application.
 
-<img class="ui large centered image" src="../images/theme-colors.png">
-<img class="ui large centered image" src="../images/about-us.png">
+## My Pages
+I worked on many pages along with the front end.
+I created the Landing Page:
+<img class="ui large centered image" src="../images/ghg/ghg_landing.png">
+<img class="ui large centered image" src="../images/ghg/cloud_landing.png">
 
-I also created the logos for the application.
-<img class="ui large centered image" src="../images/small.png">
-<img class="ui large centered image" src="../images/circular-logo.png">
+I implemented a npm React Table for the the data between users and administration.
+The Transportation History of the users traveling:
+<img class="ui large centered image" src="../images/ghg/transpo_history.png">
 
-I also helped with anything outside of the front end development if my team needed it. We used Issue Driven Project Managemet and each of us stuck with a specific aspect of the project in order to finish it efficiently. I worked on the entire front end development the entire time in order to minimize the complications we could have faced.
+The Administrations list of users:
+<img class="ui large centered image" src="../images/ghg/admin_list.png">
+
+## Front End, Visuals, UI
+In the beginning, Michael and I chose a theme and a color pallete. We decided on the following four colors. We wanted to use minimalistic tones like white and grey, but add in pop to keep the app alive.
+<img class="ui large centered image" src="../images/ghg/color_pallete.png">
+
+One goal of mine was to use interactive, bright visuals. The graphics that are used on the site were all designed by me. The goal of having more color is to make the user feel they are a part of a happy app when using it.
+The graphics stand out on the Users Data page seen here:
+<img class="ui large centered image" src="../images/ghg/my_data.png">
+<img class="ui large centered image" src="../images/ghg/mydata_breakdown.png">
+
+As a team we all decided to use a wave as a consistent graphic background in the app.
+<img class="ui large centered image" src="../images/ghg/ghg_sign_in.png">
+<img class="ui large centered image" src="../images/ghg/my_vehicles.png">
+
+As you can see, the graphics are interactive and fun. 
+
+I helped with other things when my teammates were working and needed help. We used Issue Driven Project Managemet and each of us stuck with a specific aspect of the project in order to finish it efficiently. We had a consistent number of issues for each teammate to finish the app on time.
 
 ## Reflection
-This project was challenging but my group made it manageable. As a group, we all had a great work ethic so we finished everything on time. Since we are doing distance learning, our entire porject was based off communicating on Discord. This required a lot of patience and consistency. The project revealed how important it is to have deadlines and goals for each milestone or else things will not be finished. Without having the issues, we would have probably procrastinated. I also learned that Software Engineering is really frusrating and it takes time to develop something. Oour application is great but I do believe there is room for improvement.
+This project was my best experience in group projects. My group was very knowledgeable, hardworking, patient and most importantly, great communicators. I had a fun, but challenging time. My personal growth came when I had to think methodically when choosing the theme and how to create something attractive. I also have barely worked on the back end development in a project so it was interesting when working with the collections and methods. Overall, I am very pleased with my performance and my groups. 
 
 

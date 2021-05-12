@@ -55,8 +55,8 @@ The source code is in our GitHub repository located here:
 [GHG-Tracker GitHub Repository](https://github.com/hot-n-code/ghg-tracker)
 
 ## The First Look
-I strongly believe that during the pandemic, we are still adapting to new ways to learn while online. Using discord was the key to our communication. We met 2-3 times a week to discuss our project. When we first started our project this semester, it was slow, but productive. In the beginning, I saw it as a test of who wanted to be a leader within the group. I found that another teammate and I led many of the group discussion and initiating the next stop in the project.
-In the first couple of weeks we focused on the mockups and creating the UI of the project. As we moved along the calendar, the deeper we dove into the project. When managing a big project using Issue Driven Project Management is the most effective way to hit milestones. Without it then it lacks structure and accountability.
+I strongly believe that during the pandemic we are still adapting to new ways to learn while online. Using discord was the key to our communication. We met 2-3 times a week to discuss our project. When we first started our project this semester it was slow, but productive. In the beginning, I saw it as a test of who wanted to be a leader within the group. I found that another teammate and I led many of the group discussion and initiating the next stop in the project.
+In the first couple of weeks we focused on the mockups and creating the UI of the project. As we moved along the calendar the deeper we dove into the project. When managing a big project using Issue Driven Project Management is the most effective way to hit milestones. Without it then it lacks structure and accountability.
 
 For the UI, we designed it to be vibrant and engaging.
 Here is an example of our UI: 

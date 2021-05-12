@@ -43,6 +43,14 @@ Agile Project Management: Issue Driven Project Management
 
 These tools we used are so important when developing projects. I personally wouldn't have had made successful applications without them. Since January of 2021 til the beginning of May, I worked with eight others on an app we made for Hawaiian Electric that tracks Green House Gas Emissions for users in Hawaii. I had a smooth experience with my team while making out app. I have noticed that the more times I work on an app, I fall more in love with Software Engineering. Which is what I mean when I say my mom is right.. I know that I love Software Engineering!
 
+## Learn More About Our application 
+Please visit our project page here to learn more about our project:
+This link includes directions to running our program locally.
+[GHG-Tracker](https://hot-n-code.github.io/)
+
+The source code is in our GitHub repository located here:
+[GHG-Tracker GitHub Repository](https://github.com/hot-n-code/ghg-tracker)
+
 ## The First Look
 I strongly believe that during the pandemic, we are still adapting to new ways to learn while online. Using discord was the key to our communication. We met 2-3 times a week to discuss our project. When we first started our project this semester, it was slow, but productive. In the beginning, I saw it as a test of who wanted to be a leader within the group. I found that another teammate and I led many of the group discussion and initiating the next stop in the project.
 In the first couple of weeks we focused on the mockups and creating the UI of the project. As we moved along the calendar, the deeper we dove into the project. When managing a big project using Issue Driven Project Management is the most effective way to hit milestones. Without it then it lacks structure and accountability.

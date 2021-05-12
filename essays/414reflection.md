@@ -45,6 +45,9 @@ These tools we used are so important when developing projects. I personally woul
 
 ## Learn More About Our application 
 Please visit our project page here to learn more about our project:
+This link is to the official deployment of the app: 
+[GHG-Tracker Web App](https://ghg-data.xyz/#/)
+
 This link includes directions to running our program locally.
 [GHG-Tracker](https://hot-n-code.github.io/)
 

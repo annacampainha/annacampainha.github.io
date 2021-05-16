@@ -6,7 +6,7 @@
     "email": "ac62@hawaii.edu",
     "phone": "707-815-5041",
     "website": "https://annacampainha.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences and a minor in Mathematics at the University of Hawaii. I expect to graduate in Spring, 2022. I aspire to work in Crime and Intelligence Analysis.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences and a minor in Mathematics at the University of Hawaii. I expect to graduate in Spring, 2022. I aspire to work as a Software Engineer.",
     "location": {
       "address": "",
       "postalCode": "96826",
@@ -53,6 +53,11 @@
       "name": "Graphics",
       "keywords": [
       ]
+    },
+    {
+    "name": "Front End Development",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -65,7 +70,8 @@
         "Java",
         "JavaScript",
         "Semantics UI",
-        "React"
+        "React",
+        "SQL"
       ]
     },
     {
@@ -78,7 +84,9 @@
         "Microsoft Office",
         "VisualStudio Code",
         "Eclipse IDE",
-        "IntelliJ IDEA"
+        "IntelliJ IDEA",
+        "Mongo",
+        "Vagrant"
       ]
     }
   ],
@@ -94,11 +102,15 @@
         "ICS 111: Introduction to Computer Science I ",
         "ICS 211: Introduction to Computer Science II ",
         "ICS 212: Program Structure",
-        "ICS 314: Software Engineering",
+        "ICS 314: Software Engineering I",
         "ICS 311: Algorithms",
+        "ICS 332: Operating Systems",
+        "ICS 321: Database Systems",
+        "ICS 414: Software Engineering II",
         "MATH 241: Calculus I",
         "MATH 242: Calculus II",
         "MATH 307: Discrete Mathematics",
+        "MATH 372: Elem Probability & Statistics for Discrete Mathematics",
         "General Chemistry",
         "General Physics"
       ]
